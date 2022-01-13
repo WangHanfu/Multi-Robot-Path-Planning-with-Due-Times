@@ -1,5 +1,5 @@
 # Multi-Robot-Path-Planning-with-Due-Times
-MATLAB source codes, demo videos,dataset and raw data for my IEEE RA-L paper "Multi-Robot Path Planning with Due Times" [1].
+MATLAB source codes, demo videos, dataset and raw data for my IEEE RA-L paper "Multi-Robot Path Planning with Due Times" [1].
 
 In this paper, we propose the problem of multi-robot path planning with due times, and solve it optimally and completely using reduction-based methods firstly proposed in [2]. 
 We also extend results to the anonymous setting. 
