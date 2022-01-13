@@ -8,6 +8,6 @@ The ILP solver I'm using is Gurobi. Other solvers are also possible with some mo
 
 For multi-robot path planning on graph problems, Yu[2]  provides a Java realization of the reduction-based algorithms using ILP models. In contrast, my matlab realization is easily understood, and can be easily adapted to makespan, total travel time, maximum distance and total distance objectives. 
 
-[1] Wang Hafu and Chen Weidong, "Multi-Robot Path Planning with Due Times." IEEE Robotics and Automation Letters.
+[1] Wang Hanfu and Chen Weidong, "Multi-Robot Path Planning with Due Times." IEEE Robotics and Automation Letters.
 
 [2] Yu, Jingjin, and Steven M. LaValle. "Optimal multirobot path planning on graphs: Complete algorithms and effective heuristics." IEEE Transactions on Robotics 32.5 (2016): 1163-1177.
