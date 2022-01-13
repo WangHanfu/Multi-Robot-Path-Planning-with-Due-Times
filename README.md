@@ -4,9 +4,9 @@ MATLAB source codes, demo videos, dataset and raw data for my IEEE RA-L paper "M
 In this paper, we propose the problem of multi-robot path planning with due times, and solve it optimally and completely using reduction-based methods firstly proposed in [2]. 
 We also extend results to the anonymous setting. 
 
-The ILP solver I used is Gurobi. Other solvers are also possible with some modifications, including the MATLAB self-contained linear programming solvers.
+The ILP solver I'm using is Gurobi. Other solvers are also possible with some modifications, including the MATLAB self-contained linear programming solvers.
 
-For multi-robot path planning on graph problems, Yu[2]  provides a Java realization of the reduction-based algorithms using ILP models. My matlab realization can be easily adapted to makespan, total travel time, maximum distance and total distance objectives. 
+For multi-robot path planning on graph problems, Yu[2]  provides a Java realization of the reduction-based algorithms using ILP models. In contrast, my matlab realization is easily understood, and can be easily adapted to makespan, total travel time, maximum distance and total distance objectives. 
 
 [1] Wang Hafu and Chen Weidong, "Multi-Robot Path Planning with Due Times." IEEE Robotics and Automation Letters.
 
