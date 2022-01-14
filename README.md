@@ -1,7 +1,7 @@
 # Multi-Robot-Path-Planning-with-Due-Times
 MATLAB source codes, dataset and raw data for IEEE RA-L paper "Multi-Robot Path Planning with Due Times" [1].
 
-In this paper, the problem of multi-robot path planning with due times is proposed, and solved completely using reduction-based methods. This methdology is firstly proposed in [2]. The problem of anonymous multi-robot path planning with due times is also studied. 
+In this paper, the problem of multi-robot path planning with due times is proposed, and solved completely using reduction-based methods. This reduction-based methdology is firstly proposed in [2]. The problem of anonymous multi-robot path planning with due times is also studied. 
 
 The used ILP solver is Gurobi. Other solvers are also possible with some modifications, including the MATLAB self-contained linear programming solvers.
 
