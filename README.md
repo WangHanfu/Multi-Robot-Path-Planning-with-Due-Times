@@ -6,7 +6,7 @@ In this paper, the problem of multi-robot path planning with due times is propos
 
 Interested readers could do the following.
 
-1. The used ILP solver is Gurobi. Other solvers are also possible with some minor modifications, including the MATLAB self-contained linear programming solvers.
+1. The default ILP solver is Gurobi. Other solvers are also possible with some minor modifications, including the MATLAB self-contained linear programming solvers.
 
 2. For multi-robot path planning on graph problems, Yu [2]  provides a Java realization of the reduction-based algorithms. In contrast, my Matlab realization is easily understood. I have leave some space for expansion to makespan, total travel time, maximum distance and total distance objectives. 
 
